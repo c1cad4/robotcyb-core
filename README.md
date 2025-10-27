@@ -68,4 +68,3 @@ If the project succeeds and DAO approves, **Robotcyb Core** will expand to build
 - **/DAOCYB-Interface**: Tools for governance and voting.  
 - **/CYBDOC**: Guides, reports, and videos.  
 
-This repository will be a cyber key to success, supporting regional growth and eco-tourism. Progress will be openly accessible! Want a chart of the stages? Let me know!
