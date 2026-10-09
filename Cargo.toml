@@ -1,0 +1,9 @@
+[package]
+name = "robotcyb-core"
+version = "0.1.0"
+edition = "2024"
+description = "robotcyb-core component of the cybOS ecosystem"
+repository = "https://github.com/c1cad4/robotcyb-core"
+publish = false
+
+[dependencies]

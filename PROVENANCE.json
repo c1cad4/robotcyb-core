@@ -1,0 +1,15 @@
+{
+  "upstream": "c1cad4/CybOS-demo",
+  "base_commit": "dddcd76d76bf1f8d26b07e3a761908bc1ea7966b",
+  "note": "Includes locally verified fixes authorized during cloud setup. Files now maintained in this repository.",
+  "files": [
+    {
+      "source": "src/power/modbus.rs",
+      "sha256": "7b05066f41a74401fc47a3adaf47d6b951a2db9dfb64d11e1d95dc5dec8cb426"
+    },
+    {
+      "source": "src/runtime/mod.rs",
+      "note": "Public models / worker contract extracted from the native application; further ownership is in this library."
+    }
+  ]
+}
